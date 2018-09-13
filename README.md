@@ -1,4 +1,4 @@
-# 网易云信 UI 组件 	· iOS
+# 网易云信 UI 组件 	· iOS -- fork的
 [![Build Status](https://img.shields.io/travis/netease-im/NIM_iOS_UIKit/master.svg?style=flat)](https://travis-ci.org/netease-im/NIM_iOS_UIKit)
 [![Pod Version](https://img.shields.io/cocoapods/v/NIMKit.svg?style=flat)](#)
 [![Pod Platform](http://img.shields.io/cocoapods/p/NIMKit.svg?style=flat)](#)
